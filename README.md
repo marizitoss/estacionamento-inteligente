@@ -2,7 +2,7 @@
 
 Sistema de monitoramento de vagas de estacionamento. Cada vaga tem um sensor ultrassônico que detecta se há um carro, LEDs que indicam o estado no local, um display LCD e um painel web que mostra tudo em tempo real.
 
-- **Simulação no Wokwi:** https://wokwi.com/projects/481313349475281921
+- **Simulação no Wokwi:** https://wokwi.com/projects/481519264850453505
 - **Painel web:** `painel_estacionamento.html` (abrir no navegador)
 
 **Grupo:** _(nomes dos integrantes)_
